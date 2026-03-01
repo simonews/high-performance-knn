@@ -36,7 +36,7 @@ Benchmark configuration: 2000 query vectors · 2000 dataset points · 256 dimens
 ## Repository Structure
 ```
 .
-├── ProgettoGruppo11/
+├── project/
 │   └── src/
 │       ├── 32bit/      # 32-bit SSE implementation (float)
 │       ├── 64bit/      # 64-bit AVX sequential implementation (double)
